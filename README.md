@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Rafael Martins from Vitoria/ES - Brazil<br>- 🔭 I’m working as: Software Engineer at <a href="https://github.com/code1br/">@code1</a><br>- 📚 I'm currently learning: Performance & Analytics</p>
+<p align="left">I'm Rafael Martins from Vitoria/ES - Brazil<br>- 🔭 I’m working as: Software Engineer at <a href="https://github.com/code1br/">@code1</a><br>- 📚 I'm currently learning: Performance & Analytics in web apps</p>
 
 ###
 
