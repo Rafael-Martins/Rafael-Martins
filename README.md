@@ -74,20 +74,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+[![An image of @rafaelmartins's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rafaelmartins)](https://holopin.io/@rafaelmartins)
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rafael-Martins&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rafael-Martins.Rafael-Martins&"  />
-</div>
-
-###
-
 
